@@ -2,17 +2,15 @@
 
 A real-time hand tracking system using a standard webcam and MediaPipe for intuitive gesture-based interaction in 3D Unity environments — no expensive VR/AR hardware required!
 
-## 👨‍💻 Team Members
-
-- Rohit Singh Raghuvanshi 
-- Avijeet Parth Soni 
-- Shivanshu Vishwakarma  
-
----
-
 ## 📌 Introduction
 
 This project focuses on developing a **camera-based hand tracking system** that enables natural hand gesture interactions within a virtual 3D environment. Using **OpenCV**, **MediaPipe**, and **Unity**, we provide a **cost-effective** and **intuitive** alternative to traditional VR/AR setups.
+
+---
+
+## 🎥 Demo Video
+
+[YouTube Demo](https://youtu.be/hwRFSPdlC5Q)
 
 ---
 
@@ -26,9 +24,11 @@ This project focuses on developing a **camera-based hand tracking system** that 
 
 > Users can **grab, rotate, zoom, and move objects** with just their hands.
 
+<img src="readme image/hand to 3d pic.png" alt="Landmark Detection and Reconstruction in Unity" height = 450/>
+
 ---
 
-## 🌌 Demo: Solar System Simulation
+## 🌌 Demo: Solar System Interaction
 
 As a proof-of-concept, we created a mini **solar system** in Unity:
 
@@ -37,6 +37,8 @@ As a proof-of-concept, we created a mini **solar system** in Unity:
 - 🎮 Rotate the environment with hand gestures.
 
 > This demo showcases the potential for **interactive educational games and programs**.
+
+<img src="readme image/unity solar system.png" alt="Solar System Interaction Demo" height = 450/>
 
 ---
 
@@ -64,12 +66,6 @@ This project demonstrates the potential of camera-based hand tracking for enhanc
 
 ---
 
-## 🎥 Demo Video
-
-[YouTube Demo](https://youtu.be/hwRFSPdlC5Q)
-
----
-
 ## 📷 Built With
 
 - [Python](https://www.python.org/)
@@ -78,3 +74,9 @@ This project demonstrates the potential of camera-based hand tracking for enhanc
 - [Unity](https://unity.com/)
 
 ---
+
+## 👬 Team
+
+<a href="https://github.com/sunjinwoo1298/camera-based-hand-tracking-and-reconstruction-for-intuitive-interaction-in-virtual-environment/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sunjinwoo1298/camera-based-hand-tracking-and-reconstruction-for-intuitive-interaction-in-virtual-environment" />
+</a>
