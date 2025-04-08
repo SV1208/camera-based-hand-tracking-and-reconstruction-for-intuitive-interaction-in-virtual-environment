@@ -37,8 +37,11 @@ As a proof-of-concept, we created a mini **solar system** in Unity:
 - 🎮 Rotate the environment with hand gestures.
 
 > This demo showcases the potential for **interactive educational games and programs**.
-
-[![Solar System Interaction Demo](readme image/unity solar system.png)](https://youtu.be/hwRFSPdlC5Q)
+<p>
+  <a href="https://youtu.be/hwRFSPdlC5Q"></a>
+<img src="readme image/unity solar system.png" alt="Solar System Interaction Demo" height = 450/>
+</p>
+Click the above image to watch the demo.
 
 ---
 
