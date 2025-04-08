@@ -38,7 +38,7 @@ As a proof-of-concept, we created a mini **solar system** in Unity:
 
 > This demo showcases the potential for **interactive educational games and programs**.
 
-<img src="readme image/unity solar system.png" alt="Solar System Interaction Demo" height = 450/>
+[![Solar System Interaction Demo](readme image/unity solar system.png)](https://youtu.be/hwRFSPdlC5Q)
 
 ---
 
